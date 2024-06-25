@@ -1,2 +1,2 @@
-# rock-paper-scissors
-Rock Paper Scissors game
+# ROCK👊🏼 PAPER✋🏼 SCISSORS✌🏼 
+Mini game
